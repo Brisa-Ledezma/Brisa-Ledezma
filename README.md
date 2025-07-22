@@ -10,7 +10,7 @@
 
 ### 🌻 Sobre mí
 
-📚 Actualmente estoy estudiando una **Tecnicatura en Alálisis de Sistemas**
+📚 Actualmente estoy estudiando una **Tecnicatura en Análisis de Sistemas**
 
 🌱 Estoy aprendiendo sobre **MySql, Java**
 
