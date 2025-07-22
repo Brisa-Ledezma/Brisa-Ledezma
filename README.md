@@ -11,8 +11,11 @@
 ### 🌻 Sobre mí
 
 📚 Actualmente estoy estudiando una **Tecnicatura en Alálisis de Sistemas**
+
 🌱 Estoy aprendiendo sobre **MySql, Java**
+
 💬 Colaborar en proyectos y aportar desde el conocimiento es una parte clave de mi forma de trabajar.
+
 ⚡ Me adapto rápido a nuevas tecnologías y me apasiona entender cómo funcionan las cosas desde cero.
 
 <h3 align="left">Contactame:</h3>
